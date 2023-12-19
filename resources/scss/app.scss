@@ -16,3 +16,30 @@ h1 {
 #card-image {
     width: 250px;
 }
+
+.jumbo {
+    width: 100%;
+    height: 350px;
+    background-image: url('../img/jumbotron.jpg');
+}
+
+.jumbo-footer {
+    height: 150px;
+    background-image: url('../img/footer-bg.jpn');
+}
+
+.padding-left {
+    padding-right: 400px;
+    padding-left: 300px;
+}
+
+.img-icons {
+    width: 40px;
+    background: aliceblue;
+    padding: 5px;
+}
+
+.heigth-footer {
+    height: 150px;
+    background-color: grey
+}
