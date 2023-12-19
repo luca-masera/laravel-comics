@@ -23,23 +23,43 @@ h1 {
     background-image: url('../img/jumbotron.jpg');
 }
 
-.jumbo-footer {
+footer {
+    .jumbon-footer {
+        height: 300px;
+        width: 100%;
+        background-image: url('../img/footer-bg.jpg');
+    }
+
+    .padding-left {
+        padding-right: 400px;
+        padding-left: 300px;
+    }
+
+    .img-icons {
+        width: 40px;
+        background: aliceblue;
+        padding: 5px;
+    }
+
+    .heigth-footer {
+        height: 70px;
+        background-color: grey
+    }
+
+    li {
+
+        color: white;
+        font-size: 12px;
+        list-style: none;
+    }
+
+    .img-logo {
+        width: 15vw;
+        height: 15vw;
+    }
+}
+
+.height-blu {
     height: 150px;
-    background-image: url('../img/footer-bg.jpn');
-}
-
-.padding-left {
-    padding-right: 400px;
-    padding-left: 300px;
-}
-
-.img-icons {
-    width: 40px;
-    background: aliceblue;
-    padding: 5px;
-}
-
-.heigth-footer {
-    height: 150px;
-    background-color: grey
+    background-color: blue;
 }

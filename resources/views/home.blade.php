@@ -24,6 +24,36 @@
 
             </div>
         </section>
+        <div class="height-blu ">
+            <ul class="d-flex padding align-items-center">
+                <li>
+                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="">
+                    <span>DIGITAL COMICS</span>
+                </li>
+                <li>
+                    <img src="{{ Vite::asset('resources/img/buy-comics-merchandise.png') }}" alt="">
+                    <span>DC MERCHANDISE</span>
+
+                </li>
+                <li>
+                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="">
+                    <span>DIGITAL COMICS</span>
+                </li>
+                <li>
+                    <img src="{{ Vite::asset('resources/img/buy-comics-shop-locator.png') }}" alt="">
+                    <span>SHOP LOCATOR</span>
+                </li>
+                <li>
+                    <img src="{{ Vite::asset('resources/img/buy-comics-subscriptions.png') }}" alt="">
+                    <span>SUBSCRIPTIONS</span>
+                </li>
+
+
+
+
+            </ul>
+
+        </div>
     </main>
 
 @endsection
