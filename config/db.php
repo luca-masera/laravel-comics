@@ -110,6 +110,42 @@ return [
             "sale_date" => "2019-04-10",
             "type" => "graphic novel",
         ]
+    ],
+    'list' => [
+
+        [
+            'text' => 'Characters',
+            'url' => '#'
+
+        ],
+        [
+            'text' => 'Comics',
+            'url' => '#'
+        ],
+        [
+            'text' => 'Movie',
+            'url' => '#'
+        ],
+        [
+            'text' => 'Tv',
+            'url' => '#'
+        ],
+        [
+            'text' => 'Games',
+            'url' => '#'
+        ],
+        [
+            'text' => 'Video',
+            'url' => '#'
+        ],
+        [
+            'text' => 'Shop',
+            'url' => '#'
+        ],
+        [
+            'text' => 'Contacts',
+            'url' => '#'
+        ]
     ]
 ];
 
